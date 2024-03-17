@@ -1,5 +1,5 @@
 
-## Simple Todo List App Docs
+## Simple Todo List App
 
 ## Table of Contents
 
@@ -21,7 +21,25 @@ Welcome to the documentation for the TO-DO-LIST App, a simple and refactored pro
 
 The TO-DO-LIST App is a web-based application developed to help users manage their tasks by providing a user-friendly interface for adding, editing, and deleting tasks. The app also supports task filtering based on status (All, Pending, Completed) and incorporates a theme switcher for a personalized user experience.
 
-## 3. Getting Started
+### Mobile Responsive Design:
+
+The TO-DO-LIST app is designed to be mobile-responsive, ensuring a seamless user experience across various devices, including smartphones and tablets. The following features ensure optimal usability on smaller screens:
+
+- **Flexible Layout**: The layout adjusts dynamically based on the screen size, ensuring that all elements are accessible without horizontal scrolling.
+  
+- **Media Queries**: Media queries are used to apply different styles for different screen sizes, optimizing the app's appearance and functionality on mobile devices.
+
+- **Touch-Friendly Interface**: Interactive elements, such as buttons and input fields, are optimized for touch interactions, providing a smooth user experience on touch-enabled devices.
+
+- **Viewport Meta Tag**: The viewport meta tag is included in the HTML to ensure that the app scales appropriately to fit the device's screen size.
+
+- **Responsive Tables**: Tables, such as the task list, are designed to scroll horizontally on smaller screens to accommodate narrower viewports.
+
+- **Adaptive Fonts and Spacing**: Fonts, spacing, and other typographic elements are adjusted to maintain readability and visual hierarchy on smaller screens.
+
+By implementing these mobile-responsive design principles, the TO-DO-LIST app offers a consistent and intuitive user experience across all devices, empowering users to manage their tasks efficiently anytime, anywhere.
+
+## 4. Getting Started
 
 To get started with the TO-DO-LIST App, follow these steps:
 
@@ -37,13 +55,13 @@ Make sure you have the following installed:
 1. **Clone the Repository:**
 
    ```bash
-   git clone git@github.com:abdellatif-laghjaj/todo-list.git
+   git clone https://github.com/web-cracker/todo-list-app.git
    ```
 
 2. **Navigate to the Project Directory:**
 
    ```bash
-   cd todo-list
+   cd todo-list-app
    ```
 
 3. **Open `index.html` in a Browser:**
@@ -51,7 +69,7 @@ Make sure you have the following installed:
    Open the `index.html` file in your preferred web browser.
 
 
-## 4. Code Structure
+## 5. Code Structure
 
 The project follows a modular and organized structure to enhance readability, maintainability, and scalability. Key components include:
 
@@ -60,14 +78,14 @@ The project follows a modular and organized structure to enhance readability, ma
 - **JavaScript (`main.js`):** Logic for handling user interactions, managing tasks, and implementing theme switching.
 - **Fonts (`Poppins`):** Imported from Google Fonts for consistent typography.
 
-## 5. Dependencies
+## 6. Dependencies
 
 - **Tailwind CSS:** Used for styling the components. It's linked through CDN in the `index.html` file.
 - **Daisy UI:** A CSS library for UI components, linked through CDN.
 - **Boxicons:** Icons library, linked through CDN.
 - **Google Fonts (Poppins):** Font used for the app, linked in the `style.css` file.
 
-## 6. Code Refactoring
+## 7. Code Refactoring
 
 ### Code Smells Addressed:
 
@@ -137,11 +155,11 @@ The project follows a modular and organized structure to enhance readability, ma
    - Implements the Singleton pattern to ensure a single instance responsible for theme switching.
    - Manages the application's theme by updating the HTML's data-theme attribute.
 
-## 7. Deployment
+## 8. Deployment
 
 The TO-DO-LIST App is deployed and accessible online. You can use the following link to access the application: [TO-DO-LIST](https://task1todolist.vercel.app/)
 
-## 8. Usage
+## 9. Usage
 
 1. **Adding a Task:**
    - Enter the task in the input field.
