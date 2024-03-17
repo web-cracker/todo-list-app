@@ -196,3 +196,6 @@ The TO-DO-LIST App is deployed and accessible online. You can use the following 
 7. **Theme Switching:**
    - Use the palette icon in the top-right corner to open the theme switcher.
    - Select a theme from the available options.
+
+## 10. License
+  This project is licensed under the MIT License and was originally developed by <a href="https://github.com/web-cracker/">@web-cracker</a> with the contribution of <a href="https://www.linkedin.com/in/mohammed-zuber-ahamad/">Mohammed Zuber Ahamad</a>.
