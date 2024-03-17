@@ -155,4 +155,50 @@ header .input-section {
         max-width: 96%;
         min-width: 96%;
     }
+    table {
+        font-size: 12px;
+        overflow-x: auto;
+        table-layout: fixed;
+
+    }
+}
+/* Add this CSS code to make the table header scrollable */
+.table-wrapper {
+    overflow-x: auto;
+}
+
+/* Set styles for the table */
+.table {
+    width: 100%;
+    border-collapse: collapse;
+    table-layout: fixed; /* Ensure consistent column widths */
+}
+
+/* Set styles for table header */
+.table th {
+    background-color: #f2f2f2;
+    position: sticky;
+    top: 0;
+    z-index: 1;
+}
+
+/* Set styles for table body */
+.table tbody {
+    display: block;
+    overflow-y: auto;
+    max-height: 300px; /* Adjust max-height as needed */
+}
+
+/* Set styles for table rows and cells */
+.table tr {
+    display: table;
+    width: 100%;
+    table-layout: fixed;
+}
+
+.table td, .table th {
+    padding: 10px;
+    text-align: center;
+    border-bottom: 1px solid #dee2e6;
+    word-wrap: break-word;
 }
