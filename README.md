@@ -5,13 +5,14 @@
 
 1. [Introduction](#1-introduction)
 2. [Project Overview](#2-project-overview)
-3. [Getting Started](#3-getting-started)
-4. [Code Structure](#4-code-structure)
-5. [Dependencies](#5-dependencies)
-6. [Code Refactoring](#6-code-refactoring)
-7. [Deployment](#7-deployment)
-8. [Usage](#8-usage)
-9. [License](#9-license)
+3. [Mobile Responsive Design](#3-Mobile-responsive-design)
+4. [Getting Started](#4-getting-started)
+5. [Code Structure](#5-code-structure)
+6. [Dependencies](#6-dependencies)
+7. [Code Refactoring](#7-code-refactoring)
+8. [Deployment](#8-deployment)
+9. [Usage](#9-usage)
+10. [License](#10-license)
 
 # Screenshots:
 
