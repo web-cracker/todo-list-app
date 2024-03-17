@@ -168,8 +168,3 @@ The TO-DOIT App is deployed and accessible online. You can use the following lin
 7. **Theme Switching:**
    - Use the palette icon in the top-right corner to open the theme switcher.
    - Select a theme from the available options.
-
-
-## 9. License
-
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT) and was originally developed by [@abdellatif-laghjaj](https://github.com/abdellatif-laghjaj) with the contribution of [@takitajwar17](https://github.com/takitajwar17). 
