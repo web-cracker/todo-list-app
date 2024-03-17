@@ -13,6 +13,16 @@
 8. [Usage](#8-usage)
 9. [License](#9-license)
 
+# Screenshots:
+
+Below are screenshots demonstrating the TO-DO-LIST app's mobile-responsive design:
+
+![Screenshot (50)](https://github.com/web-cracker/todo-list-app/assets/96331306/e6c78081-e89a-4d1b-9108-34d886954377)
+
+![Screenshot (51)](https://github.com/web-cracker/todo-list-app/assets/96331306/81108674-721b-4318-a1b6-a247a53ffcb5)
+
+![Screenshot (52)](https://github.com/web-cracker/todo-list-app/assets/96331306/fe72e792-d871-449f-b4f7-47376929337f)
+
 ## 1. Introduction
 
 Welcome to the documentation for the TO-DO-LIST App, a simple and refactored project designed to manage your tasks efficiently. This document provides an overview of the project, its code structure, refactoring details, clean code practices, design patterns, deployment information, and usage instructions.
@@ -21,7 +31,7 @@ Welcome to the documentation for the TO-DO-LIST App, a simple and refactored pro
 
 The TO-DO-LIST App is a web-based application developed to help users manage their tasks by providing a user-friendly interface for adding, editing, and deleting tasks. The app also supports task filtering based on status (All, Pending, Completed) and incorporates a theme switcher for a personalized user experience.
 
-### Mobile Responsive Design:
+### 3. Mobile Responsive Design:
 
 The TO-DO-LIST app is designed to be mobile-responsive, ensuring a seamless user experience across various devices, including smartphones and tablets. The following features ensure optimal usability on smaller screens:
 
